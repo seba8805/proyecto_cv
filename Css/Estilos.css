@@ -1,0 +1,47 @@
+
+@media screen and (max-width: 800px){
+main {
+    width:100%;
+}
+aside {
+    width:100;
+}
+}
+
+@media screen and (max-width: 400px){
+    .container{
+        width:100%;
+    }
+    aside {
+        display:none;
+    }
+}
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue
+    }
+}
+#demo {
+  color: red
+}
+button {
+    color: blue
+}
+
+.button {
+    display: flex;
+    background-color:lightblue;
+  border: 10px;
+  text-align: center;
+  font-size: 16px;
+  margin:0 auto;
+  color wheat;
+  transition: all 1s;
+  cursor: pointer;
+width:30%;
+        padding:20px;
+}
+#demo {
+    font-size: 20px;
+    color: red;
+}
