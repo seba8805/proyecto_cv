@@ -1,2 +1,2 @@
 # proyecto_cv
-proyecot final de ticmas
+proyecto final de ticmas
